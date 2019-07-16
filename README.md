@@ -1,2 +1,2 @@
-# papers
+# Papers
 Repository for papers
